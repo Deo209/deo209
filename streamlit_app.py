@@ -1,5 +1,3 @@
-import streamlit as st
-
 #Fórum de discussão simples para estudantes
 
 forum = {}  # Chave: tópico, Valor: lista de mensagens
